@@ -6,4 +6,4 @@ Check out this informative blog post (https://felixinstruments.com/blog/nir-for-
 
 From a modeling perspective, spectroscopic measurements often generate many potential predictive variables that are spectrally correlated (we'll cover this more in upcoming lectures). In our dataset there are 263 spectral bands, each of which could potentially be used to predict dry matter content. However, bands that neighbor each other spectrally are often highly correlated and, consequently, share similar relationships with the variable that you are trying to predict.
 
-You can also download the data from https://drive.google.com/file/d/1hy2-DSKtKQr9uDmk9BgvqV8lz8476-5B/view?usp=sharing
+To try & experiment yourself, you can download the data from https://drive.google.com/file/d/1hy2-DSKtKQr9uDmk9BgvqV8lz8476-5B/view?usp=sharing
